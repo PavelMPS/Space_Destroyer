@@ -1,1 +1,1 @@
-SPACE DESTROYER SUPER MEGA GIGA GAME!! YOU can destroy your own spaceship! Enjoy!
+Mini game "Space destroyer". Javascript, HTML, CSS.
